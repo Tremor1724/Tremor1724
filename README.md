@@ -1,9 +1,9 @@
 ## Hi there 👋
 This is Tremor1724,a basic level computer leaner.
-<hr>I'm a y1 Mathmatics and Applied Mathmatics,simply trying to explore here to improve my knowledge reserve and coding skills.
-<hr>Well,no matter what to say...
-<hr>Nice to meet YOU!
-<hr>^^
+<br>I'm a y1 Mathmatics and Applied Mathmatics student from UNNC,who simply tries to explore here to improve my knowledge reserve and coding skills here.
+<br>Well,no matter what to say...
+<br>Nice to meet YOU!
+<br>^^
 <!--
 **Tremor1724/Tremor1724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
