@@ -1,7 +1,7 @@
 ## Hi there 👋
-This is Tremor1724,a basic level computer leaner.
+This is Tremor1724, a basic level computer learner.
 <br>I'm a y1 Mathmatics and Applied Mathmatics student from UNNC and simply trying to explore here to improve my knowledge reserve && coding skills.
-<br>Well,no matter what to say...
+<br>Well, no matter what to say...
 <br>Nice to meet YOU!
 <br>^^
 <!--
